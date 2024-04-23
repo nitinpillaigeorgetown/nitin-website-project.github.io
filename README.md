@@ -1,7 +1,4 @@
-- Notes To Professor
-      - I have tried to recreate my startup - GX Partners' website, which I had founded in 2017.
-      - I had used a basic HTML template from Aria Themes back then. This company is now defunct, and hence I couldn't link to the company page. The following template is almost completely customized from scratch.
-      - I wanted to add multiple pages (Terms, Privacy Policy, etc), and a "Projects" section, which I couldn't, due to time constraints.
-      - I have linked a Google Form to the "Contact Us" button.
-      - I have added SEO elements (Meta Title, Description, Keywords etc) to the header.
-      - The site has been built to be completely responsive.
+<p><strong>Website Link</strong></p>
+<p>Click Here -&nbsp;https://nitinpillaigeorgetown.github.io/nitin-website-project.github.io/</p>
+<p>&nbsp;</p>
+<p><strong>Notes To Professor</strong><br />I have tried to recreate my startup - GX Partners' website, which I had founded in 2017.<br />I had used a basic HTML template from Aria Themes back then. This company is now defunct, and hence I couldn't link to the company page. The following template is almost completely customized from scratch.<br />I wanted to add multiple pages (Terms, Privacy Policy, etc), and a "Projects" section, which I couldn't, due to time constraints.<br />I have linked a Google Form to the "Contact Us" button.<br />I have added SEO elements (Meta Title, Description, Keywords etc) to the header.<br />The site has been built to be completely responsive.</p>
